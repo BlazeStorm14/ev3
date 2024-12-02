@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21723809-9",
+ "nombre": "Gabriel",
+ "apellido": "Olave",
+ "direccion": "Quilpué",
+ "fono": 123456,
+ "correo":"gabo@gmail.cl",
+ "montoCredito": 14001,
+ "deuda":200,
+ "tipo": 1
+ }
+]
